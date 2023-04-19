@@ -1,6 +1,9 @@
 /* CSS Document */
-body {background-color:#66CCFF;
-font-weight:bold;
-color:#CC0099;
-}
+body 
+ {
+   background-color:#66CCFF;
+   font-weight:bold;
+   color:#CC0099;
+   font-size:18px;  
+ }
 
